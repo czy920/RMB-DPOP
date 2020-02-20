@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+<agents>
+
+	<agent name="RMBDPOP" class="edu.cqu.algorithms.RMBDPOP" method="sync"></agent>
+
+</agents>
+</manifest>

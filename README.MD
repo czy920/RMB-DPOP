@@ -1,0 +1,1 @@
+This is the source code of the AAMAS 2020 paper: RMB-DPOP: Refining MB-DPOP by Reducing Redundant Inferences
